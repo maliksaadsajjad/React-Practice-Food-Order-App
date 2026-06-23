@@ -9,5 +9,3 @@ function App() {
 }
 
 export default App;
-
-// was making physics project so forgor work
