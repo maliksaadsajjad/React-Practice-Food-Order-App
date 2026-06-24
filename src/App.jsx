@@ -10,4 +10,4 @@ function App() {
 
 export default App;
 
-// finally submitted my physics project to that a-hole
+// i was tired today so skipped work
