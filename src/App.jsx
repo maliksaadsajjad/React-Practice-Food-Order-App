@@ -10,4 +10,4 @@ function App() {
 
 export default App;
 
-// i was tired today so skipped work
+// inshallah i'll work from tomorrow
