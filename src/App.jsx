@@ -9,5 +9,3 @@ function App() {
 }
 
 export default App;
-
-// soon i'll be successful 
