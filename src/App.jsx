@@ -10,4 +10,4 @@ function App() {
 
 export default App;
 
-// finally caught up after a looooong time 
+// this time i'm locked in asf
